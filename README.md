@@ -24,4 +24,4 @@ La directora de marketing de Cyclistic, una empresa bicicletas compartidas de Ch
 La empresa Cyclistic busca aumentar su base de miembros anuales, ya que estos generan mayores ingresos a largo plazo comparado con los ciclistas ocasionales. El análisis de datos permitirá entender el comportamiento de ambos grupos y detectar patrones que faciliten la conversión de usuarios ocasionales a miembros.
  
 
-## Preguntar
+## Preparar

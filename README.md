@@ -222,7 +222,7 @@ Cada archivo contiene las siguientes columnas:
 </table>  
 
 7. Volumen de datos  
-Cada archivo contiene decenas o cientos de miles de registros, dependiendo del mes. El volumen total anual supera el millón de registros (estimación general para este tipo de servicios).
+Cada archivo contiene decenas o cientos de miles de registros, dependiendo del mes.
 
 8. Calidad de los datos  
 Aunque los datos están bien estructurados, es posible encontrar:

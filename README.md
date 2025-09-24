@@ -49,6 +49,7 @@ Datos estructurados internos, generados automáticamente por el sistema de gesti
 Los archivos fueron generados de forma mensual, conteniendo los viajes realizados en cada mes del año 2021.
 
 6. Variables o campos relevantes
+
 <table>
 <tr>
 <td width="50%">
@@ -59,6 +60,9 @@ Los archivos fueron generados de forma mensual, conteniendo los viajes realizado
 	<p></p>
 	</div>
 </td> 
+</tr>
+</table>
+
 Cada archivo contiene las siguientes columnas:
 
 Campo	- Descripción

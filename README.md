@@ -52,7 +52,7 @@ Los archivos fueron generados de forma mensual, conteniendo los viajes realizado
 Cada archivo contiene las siguientes columnas:
 
 Campo	- Descripción
-ride_id	        Identificador único del viaje
+ride_id	        Identificador único del viaje  
 rideable_type	  Tipo de bicicleta utilizada (por ejemplo: eléctrica, clásica, etc.)
 started_at	     Fecha y hora de inicio del viaje
 ended_at	       Fecha y hora de finalización del viaje

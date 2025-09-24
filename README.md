@@ -16,10 +16,10 @@ Moreno estableció una meta clara: Diseñar estrategias de marketing orientadas 
 La directora de marketing de Cyclistic, una empresa bicicletas compartidas de Chicago cree que el éxito futuro de la empresa depende de maximizar la cantidad de membresías anuales. Por lo tanto, se quiere entender qué diferencias existen en el uso de las bicicletas Cyclistic entre los ciclistas ocasionales y los miembros anuales. A través de estos conocimientos,se busca diseñar una nueva estrategia de marketing para convertir a los ciclistas ocasionales en miembros anuales. Sin embargo, antes de eso, los ejecutivos de Cyclistic deben aprobar las recomendaciones; por eso, la respuesta debe estar respaldada con una visión convincente de los datos y visualizaciones profesionales de los mismos.
 
 ## Preguntar
-- ¿En qué se diferencian los socios anuales y los ciclistas ocasionales con respecto al uso de las bicicletas de Cyclistic:question: 
-- ¿Por qué los ciclistas ocasionales comprarían membresías anuales de Cyclistic:question:  
-- ¿Cómo puede usar Cyclistic los medios digitales para influenciar a los ciclistas ocasionales a convertirse en miembros:question:  
-- ¿Que estrategias de marketing estan teniendo mayor impacto convirtiendo los ciclistas ocasionales en miembros anuales:question:
+- ¿En qué se diferencian los socios anuales y los ciclistas ocasionales con respecto al uso de las bicicletas de Cyclistic :question: 
+- ¿Por qué los ciclistas ocasionales comprarían membresías anuales de Cyclistic :question:  
+- ¿Cómo puede usar Cyclistic los medios digitales para influenciar a los ciclistas ocasionales a convertirse en miembros :question:  
+- ¿Que estrategias de marketing estan teniendo mayor impacto convirtiendo los ciclistas ocasionales en miembros anuales :question:
 
 La empresa Cyclistic busca aumentar su base de miembros anuales, ya que estos generan mayores ingresos a largo plazo comparado con los ciclistas ocasionales. El análisis de datos permitirá entender el comportamiento de ambos grupos y detectar patrones que faciliten la conversión de usuarios ocasionales a miembros.
  

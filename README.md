@@ -32,7 +32,7 @@ Tras reflexionar acerca de las preguntas preguntas establezco la problematica pr
 ## Preparar
 Durante esta etapa, me aseguré de contar con datos confiables, ya que la fuente fue directamente la empresa proveedora del servicio, lo cual garantiza su autenticidad y relevancia. Posteriormente, descargué y organicé los archivos mensuales correspondientes al año de análisis.
 
-📄 ### Descripción de la fuente de datos utilizada
+### 📄 Descripción de la fuente de datos utilizada
 1. Nombre de la fuente
 Registros de viajes mensuales de Cyclist – Año 2021
 

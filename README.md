@@ -48,7 +48,17 @@ Datos estructurados internos, generados automáticamente por el sistema de gesti
 5. Frecuencia de actualización  
 Los archivos fueron generados de forma mensual, conteniendo los viajes realizados en cada mes del año 2021.
 
-6. Variables o campos relevantes  
+6. Variables o campos relevantes
+<table>
+<tr>
+<td width="50%">
+	<div align="center">
+	<h3 align="center">Analisis de Ventas y Beneficios</h3>
+	<p>
+	</p>
+	<p></p>
+	</div>
+</td> 
 Cada archivo contiene las siguientes columnas:
 
 Campo	- Descripción

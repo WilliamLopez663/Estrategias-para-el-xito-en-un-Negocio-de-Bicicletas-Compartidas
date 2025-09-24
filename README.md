@@ -250,4 +250,10 @@ Realicé una revisión detallada de las columnas presentes en cada archivo para 
 **2. Revisar tipos de datos**  
 	Durante la revisión de los tipos de datos encuentro que las columnas que indican la fecha y hora de inicio y fin del recorrido se encuentran de tipo texto y procedo a cambiarlas a de tipo fecha.
 
+**3. Calcular duración del viaje**  
+	Creo una columnas `ride_length` para calcular el tiempo total del recorrido en minutos.
+
+**4. Detectar valores atípicos en duración**
+	Creo filtros y ordeno valores para buscar valores atípicos.
+
    

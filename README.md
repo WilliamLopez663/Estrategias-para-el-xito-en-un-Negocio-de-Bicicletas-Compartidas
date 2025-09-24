@@ -15,13 +15,21 @@ Moreno estableció una meta clara: Diseñar estrategias de marketing orientadas 
 ## Planteamiento del problema
 La directora de marketing de Cyclistic, una empresa bicicletas compartidas de Chicago cree que el éxito futuro de la empresa depende de maximizar la cantidad de membresías anuales. Por lo tanto, se quiere entender qué diferencias existen en el uso de las bicicletas Cyclistic entre los ciclistas ocasionales y los miembros anuales. A través de estos conocimientos,se busca diseñar una nueva estrategia de marketing para convertir a los ciclistas ocasionales en miembros anuales. Sin embargo, antes de eso, los ejecutivos de Cyclistic deben aprobar las recomendaciones; por eso, la respuesta debe estar respaldada con una visión convincente de los datos y visualizaciones profesionales de los mismos.
 
+## Desarrollo
+<br>
+
 ## Preguntar
+Durante esta etapa en pro de guiar mi proyecto hacia la problematica principal me realicé las siguientes preguntas: 
 - ¿En qué se diferencian los socios anuales y los ciclistas ocasionales con respecto al uso de las bicicletas de Cyclistic :question: 
 - ¿Por qué los ciclistas ocasionales comprarían membresías anuales de Cyclistic :question:  
 - ¿Cómo puede usar Cyclistic los medios digitales para influenciar a los ciclistas ocasionales a convertirse en miembros :question:  
 - ¿Que estrategias de marketing estan teniendo mayor impacto convirtiendo los ciclistas ocasionales en miembros anuales :question:
 
-La empresa Cyclistic busca aumentar su base de miembros anuales, ya que estos generan mayores ingresos a largo plazo comparado con los ciclistas ocasionales. El análisis de datos permitirá entender el comportamiento de ambos grupos y detectar patrones que faciliten la conversión de usuarios ocasionales a miembros.
+Tras reflexionar acerca de las preguntas preguntas establezco la problematica principal:
+`La empresa Cyclistic busca aumentar su base de miembros anuales, ya que estos generan mayores ingresos a largo plazo comparado con los ciclistas ocasionales. El análisis de datos permitirá entender el comportamiento de ambos grupos y detectar patrones que faciliten la conversión de usuarios ocasionales a miembros.`
  
 
 ## Preparar
+Durante esta etapa, me aseguré de contar con datos confiables, ya que la fuente fue directamente la empresa proveedora del servicio, lo cual garantiza su autenticidad y relevancia. Posteriormente, descargué y organicé los archivos mensuales correspondientes al año de análisis.
+
+Realicé una revisión detallada de las columnas presentes en cada archivo para verificar que tuvieran la misma estructura. Luego, utilicé Python junto con la librería pandas para unificar todos los archivos en un único dataset, facilitando así su análisis posterior. Finalmente, empleé Microsoft Excel para asignar los tipos de datos correctos a cada columna (como fechas, cadenas de texto y números), asegurando la coherencia y calidad de los datos.

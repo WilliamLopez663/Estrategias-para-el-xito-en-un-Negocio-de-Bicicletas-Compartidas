@@ -50,7 +50,7 @@ Los archivos fueron generados de forma mensual, conteniendo los viajes realizado
 
 6. Variables o campos relevantes  
 Cada archivo contiene las siguientes columnas:  
-<table>
+<table align="center">
 <tr>
 <td>
 	<div align="center">

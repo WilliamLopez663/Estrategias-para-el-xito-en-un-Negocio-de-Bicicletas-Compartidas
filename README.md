@@ -33,22 +33,22 @@ Tras reflexionar acerca de las preguntas preguntas establezco la problematica pr
 Durante esta etapa, me aseguré de contar con datos confiables, ya que la fuente fue directamente la empresa proveedora del servicio, lo cual garantiza su autenticidad y relevancia. Posteriormente, descargué y organicé los archivos mensuales correspondientes al año de análisis.
 
 ### 📄 Descripción de la fuente de datos utilizada
-1. Nombre de la fuente
+1. Nombre de la fuente  
 Registros de viajes mensuales de Cyclist – Año 2021
 
-2. Origen o propietario
+2. Origen o propietario  
 Cyclist, empresa proveedora del sistema de bicicletas compartidas. Es la responsable de recopilar y proporcionar los datos de uso del servicio.
 
-3. Tipo de fuente
+3. Tipo de fuente  
 Datos estructurados internos, generados automáticamente por el sistema de gestión de viajes de Cyclist.
 
-4. Formato de los datos
+4. Formato de los datos  
 12 archivos en formato CSV, uno por cada mes del año 2021.
 
-5. Frecuencia de actualización
+5. Frecuencia de actualización  
 Los archivos fueron generados de forma mensual, conteniendo los viajes realizados en cada mes del año 2021.
 
-6. Variables o campos relevantes
+6. Variables o campos relevantes  
 Cada archivo contiene las siguientes columnas:
 
 Campo	- Descripción
@@ -64,30 +64,24 @@ start_lat	Latitud del punto de inicio del viaje
 start_lng	Longitud del punto de inicio del viaje
 end_lat	Latitud del punto de destino
 end_lng	Longitud del punto de destino
-member_casual	Tipo de usuario (member para usuarios suscritos o casual para usuarios ocasionales)
-7. Volumen de datos
+member_casual	Tipo de usuario (member para usuarios suscritos o casual para usuarios ocasionales)  
 
+7. Volumen de datos  
 Cada archivo contiene decenas o cientos de miles de registros, dependiendo del mes. El volumen total anual supera el millón de registros (estimación general para este tipo de servicios).
 
-8. Calidad de los datos
-
+8. Calidad de los datos  
 Aunque los datos están bien estructurados, es posible encontrar:
 
 Registros con estaciones vacías o coordenadas faltantes
-
 Inconsistencias en fechas (como viajes con duración negativa)
-
 Posibles valores atípicos en duración o distancia
-
 Estos aspectos se abordarán en la fase de limpieza y validación.
 
-9. Restricciones o licencias
-
+9. Restricciones o licencias  
 Los datos han sido proporcionados internamente por Cyclist para uso exclusivo en este proyecto de análisis.
 No deben compartirse ni divulgarse públicamente sin autorización expresa de la empresa.
 
-10. Método de acceso
-
+10. Método de acceso  
 Los archivos fueron entregados en formato digital, a través de una carpeta compartida proporcionada por la empresa (por ejemplo, Google Drive, correo o sistema de gestión interna).
 
 Realicé una revisión detallada de las columnas presentes en cada archivo para verificar que tuvieran la misma estructura. Luego, utilicé Python junto con la librería pandas para unificar todos los archivos en un único dataset, facilitando así su análisis posterior. Finalmente, empleé Microsoft Excel para asignar los tipos de datos correctos a cada columna (como fechas, cadenas de texto y números), asegurando la coherencia y calidad de los datos.

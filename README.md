@@ -237,7 +237,7 @@ Los datos han sido proporcionados internamente por Cyclistic para uso exclusivo 
 No deben compartirse ni divulgarse públicamente sin autorización expresa de la empresa.
 
 10. Método de acceso  
-Los archivos se encuentran alojados en la base da datos de la empresa Cyclistic entregados en formato digital, a través del cual me permitieron el acceso solo a los archivos correspondientes del año 2021.
+Los archivos se encuentran alojados en la base da datos de la empresa Cyclistic entregados en formato digital, a través del cual me permitieron el acceso solo a los archivos correspondientes a los ultimos 12 meses.
 
 Realicé una revisión detallada de las columnas presentes en cada archivo para verificar que tuvieran la misma estructura. Luego, utilicé Python junto con la librería pandas para unificar todos los archivos en un único dataset para facilitar su posterior análisis.
 
@@ -245,8 +245,9 @@ Realicé una revisión detallada de las columnas presentes en cada archivo para 
 
 ## Procesar
 **1. Revisar valores nulos**   
-   Durante el proceso de validación de datos nulos encuentro 693 datos de valores nulos en las columnas end_lat y end_Ing que decido eliminar porque son pocos y no va sesgar mi análisis. Ademas encuentra bastantes valores nulos en las columnas start_station_name, start_station_id, end_station_name y end_station_id que procedo a reemplazar con "Unknown" debido a que son una gran cantidad y son necesarios para el análisis.
+	Durante el proceso de validación de datos nulos encuentro 693 datos de valores nulos en las columnas `end_lat` y `end_Ing` que decido eliminar porque son pocos y no va sesgar mi análisis. Ademas encuentra 	bastantes valores nulos en las columnas `start_station_name`, `start_station_id`, `end_station_name` y `end_station_id` que procedo a reemplazar con "Unknown" debido a que son una gran cantidad y son 		necesarios para el análisis.
 
-
+**2. Revisar tipos de datos**
+	Durante la revisión de los tipos de datos encuentro que las columnas que indican la fecha y hora de inicio y fin del recorrido se encuentran de tipo texto y procedo a cambiarlas a de tipo fecha.
 
    

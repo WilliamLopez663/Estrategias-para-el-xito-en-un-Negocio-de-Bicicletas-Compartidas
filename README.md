@@ -48,8 +48,8 @@ Datos estructurados internos, generados automáticamente por el sistema de gesti
 5. Frecuencia de actualización  
 Los archivos fueron generados de forma mensual, conteniendo los viajes realizados en cada mes del año 2021.
 
-6. Variables o campos relevantes
-
+6. Variables o campos relevantes  
+Cada archivo contiene las siguientes columnas:  
 <table>
 <tr>
 <td>
@@ -219,26 +219,7 @@ Los archivos fueron generados de forma mensual, conteniendo los viajes realizado
 	</div>
 </td> 
 </tr>
-	
-</table>
-
-
-Cada archivo contiene las siguientes columnas:
-
-	- Descripción
-  
-
-	     
-      
-	
-	
-	
-	
-	
-	
-	
-	
-	
+</table>  
 
 7. Volumen de datos  
 Cada archivo contiene decenas o cientos de miles de registros, dependiendo del mes. El volumen total anual supera el millón de registros (estimación general para este tipo de servicios).

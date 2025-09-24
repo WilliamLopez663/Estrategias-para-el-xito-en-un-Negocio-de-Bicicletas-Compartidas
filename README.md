@@ -25,7 +25,7 @@ Durante esta etapa en pro de guiar mi proyecto hacia la problematica principal m
 - ¿Cómo puede usar Cyclistic los medios digitales para influenciar a los ciclistas ocasionales a convertirse en miembros :question:  
 - ¿Que estrategias de marketing estan teniendo mayor impacto convirtiendo los ciclistas ocasionales en miembros anuales :question:
 
-Tras reflexionar acerca de las preguntas preguntas establezco la problematica principal:
+Tras reflexionar acerca de las preguntas preguntas establezco la problematica principal:  
 `La empresa Cyclistic busca aumentar su base de miembros anuales, ya que estos generan mayores ingresos a largo plazo comparado con los ciclistas ocasionales. El análisis de datos permitirá entender el comportamiento de ambos grupos y detectar patrones que faciliten la conversión de usuarios ocasionales a miembros.`
  
 

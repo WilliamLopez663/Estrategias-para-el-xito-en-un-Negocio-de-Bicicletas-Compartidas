@@ -54,7 +54,15 @@ Los archivos fueron generados de forma mensual, conteniendo los viajes realizado
 <tr>
 <td width="50%">
 	<div align="center">
-	<h3 align="center">Analisis de Ventas y Beneficios</h3>
+	<h4 align="center">Campo</h4>
+	<p>
+	</p>
+	<p></p>
+	</div>
+</td> 
+<td width="50%">
+	<div align="center">
+	<h4 align="center">Descripción</h4>
 	<p>
 	</p>
 	<p></p>
@@ -65,7 +73,7 @@ Los archivos fueron generados de forma mensual, conteniendo los viajes realizado
 
 Cada archivo contiene las siguientes columnas:
 
-Campo	- Descripción
+	- Descripción
 ride_id	        Identificador único del viaje  
 rideable_type	  Tipo de bicicleta utilizada (por ejemplo: eléctrica, clásica, etc.)
 started_at	     Fecha y hora de inicio del viaje

@@ -239,4 +239,4 @@ No deben compartirse ni divulgarse públicamente sin autorización expresa de la
 10. Método de acceso  
 Los archivos se encuentran alojados en la base da datos de la empresa Cyclistic entregados en formato digital, a través del cual me permitieron el acceso solo a los archivos correspondientes del año 2021.
 
-Realicé una revisión detallada de las columnas presentes en cada archivo para verificar que tuvieran la misma estructura. Luego, utilicé Python junto con la librería pandas para unificar todos los archivos en un único dataset, facilitando así su análisis posterior. Finalmente, empleé Microsoft Excel para asignar los tipos de datos correctos a cada columna (como fechas, cadenas de texto y números), asegurando la coherencia y calidad de los datos.
+Realicé una revisión detallada de las columnas presentes en cada archivo para verificar que tuvieran la misma estructura. Luego, utilicé Python junto con la librería pandas para unificar todos los archivos en un único dataset para facilitar su posterior análisis.

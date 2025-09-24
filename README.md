@@ -245,7 +245,7 @@ Realicé una revisión detallada de las columnas presentes en cada archivo para 
 
 ## Procesar
 **1. Revisar valores nulos**   
-   Durante el proceso de validación de datos nulos se encuentran gran cantidad de registros con estaciones vacías y coordenadas faltantes pero que son que procedo a reemplazar con "Unknown" debido a que son necesarios para el análisis.
+   Durante el proceso de validación de datos nulos encuentro 693 datos de valores nulos en las columnas end_lat y end_Ing que decido eliminar porque son pocos y no va sesgar mi análisis. Ademas encuentra bastantes valores nulos en las columnas start_station_name, start_station_id, end_station_name y end_station_id que procedo a reemplazar con "Unknown" debido a que son una gran cantidad y son necesarios para el análisis.
 
 
 

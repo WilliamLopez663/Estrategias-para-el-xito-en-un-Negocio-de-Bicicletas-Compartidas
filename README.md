@@ -244,7 +244,7 @@ Realicé una revisión detallada de las columnas presentes en cada archivo para 
 <br>
 
 ## Procesar
-1. Revisar valores nulos
+**1. Revisar valores nulos**   
    Durante el proceso de validación de datos nulos se encuentran gran cantidad de registros con estaciones vacías y coordenadas faltantes pero que son que procedo a reemplazar con "Unknown" debido a que son necesarios para el análisis.
 
 

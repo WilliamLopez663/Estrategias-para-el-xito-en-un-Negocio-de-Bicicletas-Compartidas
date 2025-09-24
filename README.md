@@ -253,7 +253,7 @@ Realicé una revisión detallada de las columnas presentes en cada archivo para 
 **3. Calcular duración del viaje**  
 	Creo una columnas `ride_length` para calcular el tiempo total del recorrido en minutos.
 
-**4. Detectar valores atípicos en duración**
+**4. Detectar valores atípicos en duración**  
 	Creo filtros y ordeno valores para buscar valores atípicos.
 
    

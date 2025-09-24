@@ -247,7 +247,7 @@ Realicé una revisión detallada de las columnas presentes en cada archivo para 
 **1. Revisar valores nulos**   
 	Durante el proceso de validación de datos nulos encuentro 693 datos de valores nulos en las columnas `end_lat` y `end_Ing` que decido eliminar porque son pocos y no va sesgar mi análisis. Ademas encuentra 	bastantes valores nulos en las columnas `start_station_name`, `start_station_id`, `end_station_name` y `end_station_id` que procedo a reemplazar con "Unknown" debido a que son una gran cantidad y son 		necesarios para el análisis.
 
-**2. Revisar tipos de datos**
+**2. Revisar tipos de datos**  
 	Durante la revisión de los tipos de datos encuentro que las columnas que indican la fecha y hora de inicio y fin del recorrido se encuentran de tipo texto y procedo a cambiarlas a de tipo fecha.
 
    

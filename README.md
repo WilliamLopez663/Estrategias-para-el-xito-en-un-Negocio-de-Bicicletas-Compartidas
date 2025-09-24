@@ -55,21 +55,28 @@ Los archivos fueron generados de forma mensual, conteniendo los viajes realizado
 <td width="50%">
 	<div align="center">
 	<h4 align="center">Campo</h4>
-	<p>
-	</p>
-	<p></p>
 	</div>
 </td> 
 <td width="50%">
 	<div align="center">
 	<h4 align="center">Descripción</h4>
-	<p>
-	</p>
-	<p></p>
+	</div>
+</td> 
+</tr>
+<tr>
+<td width="50%">
+	<div align="center">
+	ride_id
+	</div>
+</td> 
+<td width="50%">
+	<div align="center">
+	Identificador único del viaje
 	</div>
 </td> 
 </tr>
 </table>
+
 
 Cada archivo contiene las siguientes columnas:
 

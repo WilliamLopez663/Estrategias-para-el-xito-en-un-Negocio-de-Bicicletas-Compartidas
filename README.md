@@ -75,25 +75,170 @@ Los archivos fueron generados de forma mensual, conteniendo los viajes realizado
 	</div>
 </td> 
 </tr>
+<tr>
+<td>
+	<div align="center">
+	rideable_type
+	</div>
+</td> 
+<td>
+	<div align="center">
+	Tipo de bicicleta utilizada (por ejemplo: eléctrica, clásica, etc.)
+	</div>
+</td> 
+</tr>
+<tr>
+<td>
+	<div align="center">
+	started_at
+	</div>
+</td> 
+<td>
+	<div align="center">
+	Fecha y hora de inicio del viaje
+	</div>
+</td> 
+</tr>
+<tr>
+<td>
+	<div align="center">
+	ended_at
+	</div>
+</td> 
+<td>
+	<div align="center">
+	Fecha y hora de finalización del viaje
+	</div>
+</td> 
+</tr>
+<tr>
+<td>
+	<div align="center">
+	start_station_name
+	</div>
+</td> 
+<td>
+	<div align="center">
+	Nombre de la estación donde comenzó el viaje
+	</div>
+</td> 
+</tr>
+<tr>
+<td>
+	<div align="center">
+	start_station_id
+	</div>
+</td> 
+<td>
+	<div align="center">
+	Identificador de la estación de inicio
+	</div>
+</td> 
+</tr>
+<tr>
+<td>
+	<div align="center">
+	end_station_name
+	</div>
+</td> 
+<td>
+	<div align="center">
+	Nombre de la estación donde terminó el viaje
+	</div>
+</td> 
+</tr>
+<tr>
+<td>
+	<div align="center">
+	end_station_id
+	</div>
+</td> 
+<td>
+	<div align="center">
+	Identificador de la estación de destino
+	</div>
+</td> 
+</tr>
+<tr>
+<td>
+	<div align="center">
+	start_lat
+	</div>
+</td> 
+<td>
+	<div align="center">
+	Latitud del punto de inicio del viaje
+	</div>
+</td> 
+</tr>
+<tr>
+<td>
+	<div align="center">
+	start_lng
+	</div>
+</td> 
+<td>
+	<div align="center">
+	Longitud del punto de inicio del viaje
+	</div>
+</td> 
+</tr>
+<tr>
+<td>
+	<div align="center">
+	end_lat
+	</div>
+</td> 
+<td>
+	<div align="center">
+	Latitud del punto de destino
+	</div>
+</td> 
+</tr>
+<tr>
+<td>
+	<div align="center">
+	end_lng
+	</div>
+</td> 
+<td>
+	<div align="center">
+	Longitud del punto de destino
+	</div>
+</td> 
+</tr>
+<tr>
+<td>
+	<div align="center">
+	member_casual
+	</div>
+</td> 
+<td>
+	<div align="center">
+	Tipo de usuario (member para usuarios suscritos o casual para usuarios ocasionales)  
+	</div>
+</td> 
+</tr>
+	
 </table>
 
 
 Cada archivo contiene las siguientes columnas:
 
 	- Descripción
-ride_id	        Identificador único del viaje  
-rideable_type	  Tipo de bicicleta utilizada (por ejemplo: eléctrica, clásica, etc.)
-started_at	     Fecha y hora de inicio del viaje
-ended_at	       Fecha y hora de finalización del viaje
-start_station_name	Nombre de la estación donde comenzó el viaje
-start_station_id	Identificador de la estación de inicio
-end_station_name	Nombre de la estación donde terminó el viaje
-end_station_id	Identificador de la estación de destino
-start_lat	Latitud del punto de inicio del viaje
-start_lng	Longitud del punto de inicio del viaje
-end_lat	Latitud del punto de destino
-end_lng	Longitud del punto de destino
-member_casual	Tipo de usuario (member para usuarios suscritos o casual para usuarios ocasionales)  
+  
+
+	     
+      
+	
+	
+	
+	
+	
+	
+	
+	
+	
 
 7. Volumen de datos  
 Cada archivo contiene decenas o cientos de miles de registros, dependiendo del mes. El volumen total anual supera el millón de registros (estimación general para este tipo de servicios).

@@ -34,19 +34,19 @@ Durante esta etapa, me aseguré de contar con datos confiables, ya que la fuente
 
 ### 📄 Descripción de la fuente de datos utilizada
 1. Nombre de la fuente  
-Registros de viajes mensuales de Cyclist – Año 2021
+Registros de viajes mensuales de Cyclistic – Ultimos 12 meses Septiembre de 2024 a Agosto de 2025
 
 2. Origen o propietario  
-Cyclist, empresa proveedora del sistema de bicicletas compartidas. Es la responsable de recopilar y proporcionar los datos de uso del servicio.
+Cyclistic, empresa proveedora del sistema de bicicletas compartidas. Es la responsable de recopilar y proporcionar los datos de uso del servicio.
 
 3. Tipo de fuente  
-Datos estructurados internos, generados automáticamente por el sistema de gestión de viajes de Cyclist.
+Datos estructurados internos, generados automáticamente por el sistema de gestión de viajes de Cyclistic.
 
 4. Formato de los datos  
-12 archivos en formato CSV, uno por cada mes del año 2021.
+12 archivos en formato CSV, uno por cada mes desde Septiembre de 2024 a Agosto de 2025.
 
 5. Frecuencia de actualización  
-Los archivos fueron generados de forma mensual, conteniendo los viajes realizados en cada mes del año 2021.
+Los archivos fueron generados de forma mensual, conteniendo los viajes realizados de los ultimos 12 meses.
 
 6. Variables o campos relevantes  
 Cada archivo contiene las siguientes columnas:  
@@ -227,16 +227,16 @@ Cada archivo contiene decenas o cientos de miles de registros, dependiendo del m
 8. Calidad de los datos  
 Aunque los datos están bien estructurados, es posible encontrar:
 
-Registros con estaciones vacías o coordenadas faltantes
-Inconsistencias en fechas (como viajes con duración negativa)
-Posibles valores atípicos en duración o distancia
+Registros con estaciones vacías o coordenadas faltantes  
+Inconsistencias en fechas (como viajes con duración negativa)  
+Posibles valores atípicos en duración o distancia  
 Estos aspectos se abordarán en la fase de limpieza y validación.
 
 9. Restricciones o licencias  
-Los datos han sido proporcionados internamente por Cyclist para uso exclusivo en este proyecto de análisis.
+Los datos han sido proporcionados internamente por Cyclistic para uso exclusivo en este proyecto de análisis.  
 No deben compartirse ni divulgarse públicamente sin autorización expresa de la empresa.
 
 10. Método de acceso  
-Los archivos fueron entregados en formato digital, a través de una carpeta compartida proporcionada por la empresa (por ejemplo, Google Drive, correo o sistema de gestión interna).
+Los archivos se encuentran alojados en la base da datos de la empresa Cyclistic entregados en formato digital, a través del cual me permitieron el acceso solo a los archivos correspondientes del año 2021.
 
 Realicé una revisión detallada de las columnas presentes en cada archivo para verificar que tuvieran la misma estructura. Luego, utilicé Python junto con la librería pandas para unificar todos los archivos en un único dataset, facilitando así su análisis posterior. Finalmente, empleé Microsoft Excel para asignar los tipos de datos correctos a cada columna (como fechas, cadenas de texto y números), asegurando la coherencia y calidad de los datos.

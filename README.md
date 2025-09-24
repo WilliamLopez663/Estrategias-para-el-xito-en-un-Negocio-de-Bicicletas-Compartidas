@@ -15,9 +15,9 @@ Moreno estableció una meta clara: Diseñar estrategias de marketing orientadas 
 ## Planteamiento del problema
 La directora de marketing de Cyclistic, una empresa bicicletas compartidas de Chicago cree que el éxito futuro de la empresa depende de maximizar la cantidad de membresías anuales. Por lo tanto, se quiere entender qué diferencias existen en el uso de las bicicletas Cyclistic entre los ciclistas ocasionales y los miembros anuales. A través de estos conocimientos,se busca diseñar una nueva estrategia de marketing para convertir a los ciclistas ocasionales en miembros anuales. Sin embargo, antes de eso, los ejecutivos de Cyclistic deben aprobar las recomendaciones; por eso, la respuesta debe estar respaldada con una visión convincente de los datos y visualizaciones profesionales de los mismos.
 
-<div align="center">
-## Desarrollo
-</div>
+<h3 align="center">
+Desarrollo
+</h3>
 <br>
 
 ## Preguntar

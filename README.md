@@ -260,6 +260,7 @@ Realicé una revisión detallada de las columnas presentes en cada archivo para 
 	Creo una columna `day_of_week` para conocer el día de la semana en que se realizaron las solicitudes de las bicicletas compartidas.
 <br>
 
-## Analizar
-
+## Analizar  
+Durante la etapa de análisis encuentro las siguientes conclusiones:  
+- 
    

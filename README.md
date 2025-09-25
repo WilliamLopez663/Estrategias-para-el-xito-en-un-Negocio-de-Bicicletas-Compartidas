@@ -254,6 +254,12 @@ Realicé una revisión detallada de las columnas presentes en cada archivo para 
 	Creo una columnas `ride_length` para calcular el tiempo total del recorrido en minutos.
 
 **4. Detectar valores atípicos en duración**  
-	Creo filtros y ordeno valores para buscar valores atípicos.
+	Creo filtros y ordeno valores para buscar valores atípicos pero no existe ningun valor fuera de lo normal.
+
+**5. Crear columna para conocer día de la semana**  
+	Creo una columna `day_of_week` para conocer el día de la semana en que se realizaron las solicitudes de las bicicletas compartidas.
+<br>
+
+## Analizar
 
    

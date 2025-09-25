@@ -262,5 +262,10 @@ Realicé una revisión detallada de las columnas presentes en cada archivo para 
 
 ## Analizar  
 Durante la etapa de análisis encuentro las siguientes conclusiones:  
-- 
+
+- El solucitud realizada con mayor tiempo tiene un total 1499 minutos lo que corresponde a casi 25 horas.
+- El tiempo promedio de la solicitud de una bicicleta compartida es de 16 minutos.
+- El día con mayor solicitud de bicicletas compartidas es el día sabado.
+- Los clientes casuales tienen un promedio de 20.9 minutos y los clientes con membresia tienen un promedio de 12.8 minutos de uso por bicicleta compartida.
+- Calculé tambien el promedio por usuario por día de la semana y los resultados se visualizan en la siguiente imagen.
    

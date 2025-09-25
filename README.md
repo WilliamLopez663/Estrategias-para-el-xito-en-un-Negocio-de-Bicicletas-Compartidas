@@ -256,6 +256,7 @@ Realicé una revisión detallada de las columnas presentes en cada archivo para 
 
 **5. Crear columna para conocer día de la semana**  
 	Creo una columna `day_of_week` para conocer el día de la semana en que se realizaron las solicitudes de las bicicletas compartidas.
+
 <br>
 
 ## Analizar  
@@ -267,4 +268,7 @@ Durante la etapa de análisis encuentro las siguientes conclusiones:
 - Los clientes casuales tienen un promedio de 20.9 minutos y los clientes con membresia tienen un promedio de 12.8 minutos de uso por bicicleta compartida.
 - El promedio por usuario por día de la semana donde observa que el promedio de uso de bicicletas compartidas por usuario por día de la semana es mayor en todos los días por usuarios casuales.
 - La cantidad de solicitudes por usuarios member es mayor entre semana pero menor comparada con las solicitudes por parte de usuarios casuales los fines de semana.
-   
+
+<br>
+
+## Compartir  

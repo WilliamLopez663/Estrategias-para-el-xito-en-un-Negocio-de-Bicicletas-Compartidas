@@ -227,10 +227,8 @@ Cada archivo contiene decenas o cientos de miles de registros, dependiendo del m
 8. Calidad de los datos  
 Aunque los datos están bien estructurados, es posible encontrar:
 
-	Registros con estaciones vacías o coordenadas faltantes  
-	Inconsistencias en fechas (como viajes con duración negativa)  
+	Registros con estaciones vacías o coordenadas faltantes    
 	Posibles valores atípicos en duración o distancia  
-	Estos aspectos se abordarán en la fase de limpieza y validación.
 
 9. Restricciones o licencias  
 Los datos han sido proporcionados internamente por Cyclistic para uso exclusivo en este proyecto de análisis.  

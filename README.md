@@ -267,5 +267,6 @@ Durante la etapa de análisis encuentro las siguientes conclusiones:
 - El tiempo promedio de la solicitud de una bicicleta compartida es de 16 minutos.
 - El día con mayor solicitud de bicicletas compartidas es el día sabado.
 - Los clientes casuales tienen un promedio de 20.9 minutos y los clientes con membresia tienen un promedio de 12.8 minutos de uso por bicicleta compartida.
-- Calculé tambien el promedio por usuario por día de la semana y los resultados se visualizan en la siguiente imagen.
+- Calculé tambien el promedio por usuario por día de la semana donde observa que el promedio de uso de bicicletas compartidas por usuario por día de la semana es mayor en todos los días por usuarios casuales.
+- 
    

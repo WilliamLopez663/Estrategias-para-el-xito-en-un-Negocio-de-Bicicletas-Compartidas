@@ -248,7 +248,7 @@ Realicé una revisión detallada de las columnas presentes en cada archivo para 
 	Durante el proceso de validación de datos nulos encuentro 693 datos de valores nulos en las columnas `end_lat` y `end_Ing` que decido eliminar porque son pocos y no va sesgar mi análisis. Ademas encuentra 	bastantes valores nulos en las columnas `start_station_name`, `start_station_id`, `end_station_name` y `end_station_id` que procedo a reemplazar con "Unknown" debido a que son una gran cantidad y son 		necesarios para el análisis.
 
 **2. Revisar tipos de datos**  
-	Durante la revisión de los tipos de datos encuentro que las columnas que indican la fecha y hora de inicio y fin del recorrido se encuentran de tipo texto y procedo a cambiarlas a de tipo fecha.
+	Durante la revisión de los tipos de datos encuentro que las columnas `started_at` y `ended_at` que indican la fecha y hora de inicio y fin del recorrido se encuentran de tipo texto y procedo a cambiarlas a de tipo fecha.
 
 **3. Calcular duración del viaje**  
 	Creo una columnas `ride_length` para calcular el tiempo total del recorrido en minutos.
